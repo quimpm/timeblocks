@@ -1,6 +1,6 @@
 # Timebloks
 
-This project has been made in orther to increase my productivity when working organizing my work time in blocks.
+This project has been made in orther to increase my productivity when working organizing my work time in blocks. Also i put on it some lofy music to get relaxed and comfy while programing :D.
 
 ## Instalation
 
